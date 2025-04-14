@@ -1,12 +1,11 @@
 <h1 align="center">Hi , I'm Álvaro <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>  
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Full+Stack+Developer.">
 </p>
 
-<br>
+<h2> 👨🏻‍💻 About Me </h2>  
 
-<h2> 👨🏻‍💻 About Me </h2> 
+I'm a student at the Full Stack Engineering Bootcamp in Education IT. I'm expanding my knowledge in front-end and back-end development. I'm passionate about learning and creating something new, productive, innovative, and creative.
 
 <img align="right" height="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
 
@@ -17,6 +16,8 @@
 - 🌱 Cybersecurity and artificial intelligence enthusiast.
 - ✍️ I read a lot about psychology and neuroscience as hobbies or side activities.
 - ☕ I believe a cup of tea and a walk can be the ultimate solution to any stress.
+- 👯 I’m looking forward to collaborate on open source projects.
+- 
 
 <h3>🛠 Tech Stack</h3>
 
@@ -57,10 +58,30 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
  </span> 
 
-## Check out my Social Media
+<h3>Connect with me:</h3>
+
 
 <a href="https://www.instagram.com/alvaaroquirogaa/">   
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> 
+</a> 
+<a href="https://x.com/AlvaroQuiroga00">  
+<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"> 
+</a> 
+
+
+<h2>Github stats:</h2>  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroquir0ga&layout=compact)](https://github.com/alvaroquir0ga/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaroquir0ga&show_icons=true&theme=midnight-purple)
+</div>
+
+
+
+
+
+
+
 
 
 
